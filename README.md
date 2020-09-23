@@ -1,0 +1,1 @@
+Nothing special just learning the basics of node and http by creating a server just with node without any frameworks.
